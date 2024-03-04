@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Do Quang Thang</h1>
 <h3 align="center">A passionate developer from Vietnam</h3>
 
-- 📫 How to reach me **doquangthang.zet@gmail.com**
+- 📫 How to reach me: **doquangthang.zet@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
