@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Do Quang Thang</h1>
-<h3 align="center">A passionate developer from Vietnam</h3>
+<h3 align="center">A IT student from Vietnam</h3>
 
 - 📫 How to reach me: **doquangthang.zet@gmail.com**
 
